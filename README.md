@@ -1,2 +1,2 @@
 # Log_sepeation_MMap
-Log Separation 
+Separating large log file efficiently using mmap package in python based on the context in the log.
