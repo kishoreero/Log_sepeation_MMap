@@ -1,0 +1,84 @@
+
+2021-04-13 08:20:53.361 :: 20 :: Process started
+2021-04-13 08:20:53.361 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:20:53.362 :: 30 :: File changed and processing with new file
+2021-04-13 08:22:20.518 :: 20 :: processed output/linux/linux.log :: Generated 20210413.082220.linux.start
+2021-04-13 08:23:43.160 :: 20 :: processed output/linux/linux.log :: Generated 20210413.082343.linux.start
+2021-04-13 08:25:30.520 :: 20 :: processed output/linux/linux.log :: Generated 20210413.082530.linux.start
+2021-04-13 08:26:27.226 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:27.226 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:28.408 :: 20 :: Process started
+2021-04-13 08:26:28.408 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:44.884 :: 20 :: processed output/apache/apache.log :: Generated 20210413.082644.apache.start
+2021-04-13 08:26:49.456 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:49.456 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:50.653 :: 20 :: Process started
+2021-04-13 08:26:50.653 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:50.697 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:50.697 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:51.891 :: 20 :: Process started
+2021-04-13 08:26:51.891 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:51.895 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:51.895 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:53.141 :: 20 :: Process started
+2021-04-13 08:26:53.141 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:53.142 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:53.142 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:54.308 :: 20 :: Process started
+2021-04-13 08:26:54.309 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:54.311 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:54.312 :: 20 :: File size changed and processing with new data
+2021-04-13 08:26:55.467 :: 20 :: Process started
+2021-04-13 08:26:55.468 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:55.472 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 08:26:55.473 :: 20 :: File size changed and processing with new data
+2021-04-13 09:52:44.422 :: 20 :: Process started
+2021-04-13 09:52:44.422 :: 20 :: Opened file /var/ossec/logs/archives/archives.log
+2021-04-13 09:53:31.254 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:53:31.255 :: 20 :: File size changed and processing with new data
+2021-04-13 09:53:55.917 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:53:55.918 :: 20 :: File size changed and processing with new data
+2021-04-13 09:54:11.060 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:54:11.060 :: 20 :: File size changed and processing with new data
+2021-04-13 09:54:26.201 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:54:26.201 :: 20 :: File size changed and processing with new data
+2021-04-13 09:54:41.348 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:54:41.348 :: 20 :: File size changed and processing with new data
+2021-04-13 09:54:56.480 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:54:56.481 :: 20 :: File size changed and processing with new data
+2021-04-13 09:55:11.567 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:55:11.567 :: 20 :: File size changed and processing with new data
+2021-04-13 09:55:27.134 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:55:27.134 :: 20 :: File size changed and processing with new data
+2021-04-13 09:55:44.368 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:55:44.368 :: 20 :: File size changed and processing with new data
+2021-04-13 09:56:01.861 :: 20 :: processed output/apache/apache.log :: Generated 20210413.095601.apache.start
+2021-04-13 09:56:02.038 :: 20 :: processed output/linux/linux.log :: Generated 20210413.095602.linux.start
+2021-04-13 09:56:03.220 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:56:03.220 :: 20 :: File size changed and processing with new data
+2021-04-13 09:56:22.119 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:56:22.120 :: 20 :: File size changed and processing with new data
+2021-04-13 09:56:37.352 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:56:37.353 :: 20 :: File size changed and processing with new data
+2021-04-13 09:56:52.445 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:56:52.445 :: 20 :: File size changed and processing with new data
+2021-04-13 09:57:07.530 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:57:07.530 :: 20 :: File size changed and processing with new data
+2021-04-13 09:57:22.644 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:57:22.645 :: 20 :: File size changed and processing with new data
+2021-04-13 09:57:37.837 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:57:37.837 :: 20 :: File size changed and processing with new data
+2021-04-13 09:57:52.932 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:57:52.933 :: 20 :: File size changed and processing with new data
+2021-04-13 09:58:08.075 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:58:08.075 :: 20 :: File size changed and processing with new data
+2021-04-13 09:58:23.140 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:58:23.140 :: 20 :: File size changed and processing with new data
+2021-04-13 09:58:38.212 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:58:38.212 :: 20 :: File size changed and processing with new data
+2021-04-13 09:58:53.360 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:58:53.361 :: 20 :: File size changed and processing with new data
+2021-04-13 09:59:10.966 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:59:10.967 :: 20 :: File size changed and processing with new data
+2021-04-13 09:59:26.014 :: 30 :: End of file /var/ossec/logs/archives/archives.log
+2021-04-13 09:59:26.014 :: 20 :: File size changed and processing with new data

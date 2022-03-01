@@ -1,0 +1,7 @@
+[run]
+logsourcename = /var/ossec/logs/archives/archives.log
+runlogname = ossec_sort.log
+loginoderef = 512259
+logsizeref = 386023022
+seekbyte = 468177256
+
